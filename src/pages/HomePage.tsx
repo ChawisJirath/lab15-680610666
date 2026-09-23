@@ -16,7 +16,7 @@ export default function HomePage() {
         </Button>
       </Card>
       <p className="text-center text-xs text-muted-foreground">จัดทำโดย Chawis Jirathitikul รหัสนักศึกษา 680610666</p>
-      <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+      <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
       <div className="mt-auto w-full space-y-4">
         <SidebarSeparator />
         <p className="text-center text-xs text-muted-foreground">
